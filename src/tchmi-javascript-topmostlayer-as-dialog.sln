@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# TcXaeShell Solution File, Format Version 11.00
+VisualStudioVersion = 15.0.33403.129
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FE7A1B72-C5B7-4D7C-BB7D-76384D4DE8E1}") = "tchmi-javascript-topmostlayer-as-dialog", "tchmi-javascript-topmostlayer-as-dialog\tchmi-javascript-topmostlayer-as-dialog.hmiproj", "{8E781DA3-ACDC-4327-8B6D-06A72A495708}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|TwinCAT HMI = Debug|TwinCAT HMI
+		Release|TwinCAT HMI = Release|TwinCAT HMI
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E781DA3-ACDC-4327-8B6D-06A72A495708}.Debug|TwinCAT HMI.ActiveCfg = Debug|TwinCAT HMI
+		{8E781DA3-ACDC-4327-8B6D-06A72A495708}.Debug|TwinCAT HMI.Build.0 = Debug|TwinCAT HMI
+		{8E781DA3-ACDC-4327-8B6D-06A72A495708}.Release|TwinCAT HMI.ActiveCfg = Release|TwinCAT HMI
+		{8E781DA3-ACDC-4327-8B6D-06A72A495708}.Release|TwinCAT HMI.Build.0 = Release|TwinCAT HMI
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {40CC2E00-5BA7-4D7C-8006-1451397E0341}
+	EndGlobalSection
+EndGlobal
